@@ -1,2 +1,2 @@
 # enzesi.github.io
-enzesi.net
+Please visit enzesi.net
