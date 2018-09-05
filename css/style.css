@@ -100,6 +100,11 @@ h5{
     line-height: 24px;
 }
 
+h6{
+    font-size: 18px;
+    line-height: 24px;
+}
+
  .pattern-overlay {
     position: absolute;
     z-index: 2;
@@ -901,7 +906,11 @@ background-color: #232323;            border: dashed 1px #4A4A4A;border-radius: 
 	}
 	#section-footer h4{
 		color: #c80a48;
-		margin-top: 30px;
+		margin-top: 17px;
+	}
+	#section-footer h6{
+		color: #c80a48;
+		margin-top: 0px;
 	}
 
 .socail-link{}
