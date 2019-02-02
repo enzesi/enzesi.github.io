@@ -196,8 +196,8 @@ h2.title{
 	text-transform: capitalize;
 }
 h2.title span{
-	font-size: 32px;
-	line-height: 60px;
+	font-size: 60px;
+	line-height: 90px;
 	color: #fff;
 	text-transform: capitalize;
 	/* width: 243px; */
